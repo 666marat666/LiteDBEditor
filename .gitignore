@@ -1,0 +1,7 @@
+LiteDBEditor/bin/
+LiteDBEditor/obj/
+LiteDBReadTest/bin/
+LiteDBReadTest/obj/
+LiteDBWriteTest/bin/
+LiteDBWriteTest/obj/
+packages/

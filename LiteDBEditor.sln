@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDBEditor", "LiteDBEditor\LiteDBEditor.csproj", "{59850F1C-5F07-4CB8-9AED-21B7131CED7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDBWriteTest", "LiteDBWriteTest\LiteDBWriteTest.csproj", "{17FCBA94-6715-4881-9917-8BDBC7300E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDBReadTest", "LiteDBReadTest\LiteDBReadTest.csproj", "{C393EDB6-7464-4207-9233-5D40F2393A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59850F1C-5F07-4CB8-9AED-21B7131CED7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59850F1C-5F07-4CB8-9AED-21B7131CED7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59850F1C-5F07-4CB8-9AED-21B7131CED7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59850F1C-5F07-4CB8-9AED-21B7131CED7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FCBA94-6715-4881-9917-8BDBC7300E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FCBA94-6715-4881-9917-8BDBC7300E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FCBA94-6715-4881-9917-8BDBC7300E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FCBA94-6715-4881-9917-8BDBC7300E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C393EDB6-7464-4207-9233-5D40F2393A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C393EDB6-7464-4207-9233-5D40F2393A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C393EDB6-7464-4207-9233-5D40F2393A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C393EDB6-7464-4207-9233-5D40F2393A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
